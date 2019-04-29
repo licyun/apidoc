@@ -8,9 +8,13 @@
 
 [docs.licyun.com](http://docs.licyun.com)
 
+### 项目源码
+
+[https://github.com/licyun/apidoc](https://github.com/licyun/apidoc)
+
 ### 结构说明
 
-+ docs 为文档目录，添加md文件在线书写markdown语法文本
++ docs 为文档目录，在该目录下添加md文件，进行文档编写
 
 + _sidebar.md 为左侧导航栏，连接docs目录下的文件，支持在线文本搜索功能
 
@@ -18,7 +22,7 @@
 
 > 为减少演示站带宽压力，已将静态文件引用方式替换为第三方静态资源库引用，如需本地化，只需修改第三方资源站网址为本地目录/即可
 
-!> 以下markdown语法引用来源：https://github.com/guodongxiaren/README
+### 以下markdown语法简单说明，引用来源：https://github.com/guodongxiaren/README
 
 ****
 ## 目录
