@@ -1,12 +1,16 @@
-﻿## 一款适合书写API文档的html框架
+﻿## 适合写markdown文档的html框架
 
 该框架基于html css js，用来书写api说明文档，支持markdown语法
 
-优势：将md文本 与 html js css解耦，提升书写体验
+优势：将md文本 与 html js css解耦，使得结构更加清晰，逻辑更明显
 
 ### 演示站
 
-[docs.licyun.com](http://docs.licyun.com)
+[中文文档书写规范](https://docs.licyun.com/#/docs/document-style-guide/README)
+
+[程序员简历模板](https://docs.licyun.com#/docs/resume/README)
+
+[API文档](https://docs.licyun.com/#/docs/apidoc/README)
 
 ### 项目源码
 
@@ -22,7 +26,7 @@
 
 > 为减少演示站带宽压力，已将静态文件引用方式替换为第三方静态资源库引用，如需本地化，只需修改第三方资源站网址为本地目录/即可
 
-### 以下markdown语法简单说明，引用来源：https://github.com/guodongxiaren/README
+> 以下为markdown语法简单说明，引用来源：https://github.com/guodongxiaren/README
 
 ****
 ## 目录
